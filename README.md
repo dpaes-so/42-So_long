@@ -11,7 +11,7 @@ A small 2D game in C using the school’s graphics library (mlx), where the play
 - Collectible items
 - Exit unlocks once all items are collected
 - Validates maps to ensure all collectibles and the exit are reachable
-- 
+- Player idle animation
 ---
 
 ## 🕹️ GAME
