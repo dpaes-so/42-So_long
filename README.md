@@ -21,7 +21,7 @@ The player must collect all items and reach the exit.
 ---
 
 ## 📸 Screenshots
-![Gameplay](docs/gameplay.png)
+![Gameplay](so_long/assets/DEMO/Demo.gif)
 
 ---
 
