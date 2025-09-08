@@ -20,13 +20,9 @@ The player must collect all items and reach the exit.
 
 ---
 
-## 📸 Screenshots
+## 🎥 Demo
 ![Gameplay](so_long/assets/DEMO/Demo.gif)
 
 ---
 
-## 🎥 Demo
-![Demo](docs/demo.gif)
-
----
 
